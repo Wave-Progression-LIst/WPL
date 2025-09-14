@@ -1,1 +1,18 @@
-
+{
+    "id": 84861114,
+    "name": "Pearl Wave",
+    "author": "jadedanlop",
+    "creators": ["jadedanlop"],
+    "verifier": "jadedanlop",
+    "verification": "https://youtu.be/5d_k79Dt8hs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "vort",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
