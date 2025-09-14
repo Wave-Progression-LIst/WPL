@@ -1,1 +1,24 @@
-
+{
+    "id": 79502046,
+    "name": "speeeeeeeeeeeed",
+    "author": "DenseCabbageGD",
+    "creators": ["DenseCabbageGD"],
+    "verifier": "DenseCabbageGD",
+    "verification": "https://youtu.be/MUpIF7fsNp4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "vort",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "noella",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
