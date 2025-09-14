@@ -1,1 +1,19 @@
-
+{
+    "id": 107202467,
+    "name": "zatonic challenge",
+    "author": "ImFeelingGreen",
+    "creators": ["ImFeelingGreen"],
+    "verifier": "ImFeelingGreen",
+    "verification": "https://youtu.be/twOuImTGavg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "vort",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 165
+        }
+        }
+    ]
+}
