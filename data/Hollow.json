@@ -1,1 +1,24 @@
-
+{
+    "id": 79478506,
+    "name": "Hollow",
+    "author": "DenseCabbageGD",
+    "creators": ["DenseCabbageGD"],
+    "verifier": "DenseCabbageGD",
+    "verification": "https://youtu.be/MUpIF7fsNp4",
+    "percentToQualify": "100",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "vort",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "noella",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
