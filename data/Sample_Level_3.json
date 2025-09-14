@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 66097532,
+    "name": "Harry Challenge",
+    "author": "nSolar",
+    "creators": ["nSolar"],
+    "verifier": "nSolar",
+    "verification": "https://youtu.be/sUY_FWHsbc0",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "vort",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 165
         },
         {
-            "user": "Sample_Victor_2",
+            "user": "noella",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
