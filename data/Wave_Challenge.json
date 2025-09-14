@@ -1,1 +1,18 @@
-
+{
+    "id": 3380100,
+    "name": "Wave Challenge",
+    "author": "TheRealDarnoc",
+    "creators": ["TheRealDarnoc"],
+    "verifier": "TheRealDarnoc",
+    "verification": "https://youtu.be/PUCj4SywUuc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "vort",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
