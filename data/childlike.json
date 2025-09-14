@@ -1,1 +1,24 @@
-
+{
+    "id": 80878937,
+    "name": "Childlike",
+    "author": "Aespha3",
+    "creators": ["Aespha3"],
+    "verifier": "Aespha3",
+    "verification": "https://youtu.be/5y9ArKPhjsg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "vort",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "noella",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
