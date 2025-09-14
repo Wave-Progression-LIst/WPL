@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 80878937,
+    "name": "childlike",
+    "author": "Aespha3",
+    "creators": ["Aespha3"],
+    "verifier": "Aespha3",
+    "verification": "https://youtu.be/5y9ArKPhjsg",
+    "percentToQualify": 100,
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Dulak",
+            "link": "https://youtu.be/5y9ArKPhjsg",
             "percent": 100,
             "hz": 360
         }
