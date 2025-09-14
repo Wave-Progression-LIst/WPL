@@ -1,18 +1,16 @@
 {
     "id": 80878937,
     "name": "childlike",
-    "author": "Aespha3",
-    "creators": ["Aespha3"],
+    "author and creator": "Aespha3",
     "verifier": "Aespha3",
     "verification": "https://youtu.be/5y9ArKPhjsg",
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
         {
-            "user": "Dulak",
+            "user": "vort",
             "link": "https://youtu.be/5y9ArKPhjsg",
             "percent": 100,
-            "hz": 360
         }
     ]
 }
